@@ -5,7 +5,7 @@ export default function Home() {
                 <div className="text-gray-800">
                     <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight mb-4">Full Stack <br /> Developer</h1>
                     <p className="text-gray-600 font-medium text-lg mb-4">
-                        Hi, I am Aditya Bhushan. A passionate Web Developer. <br /> Developer based in Bangalore, Karnataka.
+                        Hi, I am Aditya Bhushan. A passionate Web Developer. <br /> Developer based in Bangalore, India.
                     </p>
                     <span className="text-2xl flex gap-4">
                         <a href="https://www.linkedin.com/in/adityabhushan01" className="text-gray-800 hover:text-blue-500 transition-all">

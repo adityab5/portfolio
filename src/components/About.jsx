@@ -19,7 +19,7 @@ export default function About() {
         <div className="text-left mt-6 md:ml-6 md:mt-0">
           <h4 className="text-xl mb-2">About Me</h4>
           <h3 className="text-2xl mb-4 leading-tight">
-            A dedicated Full-Stack Developer <br /> based in Bangalore, Karnataka 📍
+            A dedicated Full-Stack Developer <br /> based in Bangalore, India 📍
           </h3>
           <p className="text-base leading-relaxed">
             As an aspiring Front-end Developer, I possess an impressive <br />
@@ -27,8 +27,8 @@ export default function About() {
             and maintaining responsive websites that offer a smooth user <br />
             experience. My expertise lies in crafting engaging interfaces <br />
             through writing clean and optimized code and utilizing cutting-edge <br />
-            development tools and techniques. I am also a team player who
-            thrives in collaborating with cross-functional teams to produce
+            development tools and techniques.<br/> I am also a team player who
+            thrives in collaborating with cross-functional<br/> teams to produce
             outstanding web applications.
           </p>
         </div>
