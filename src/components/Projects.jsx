@@ -24,7 +24,7 @@ export default function Projects(){
 
                     <div className="links mt-10 flex justify-center md:justify-start">
                         <a href="https://github.com/adityab5/lms" className="text-[#2D2E32] font-medium text-lg mx-4 transition-colors duration-300 hover:text-[#147EFB]">Code <i className="ri-github-line text-xl"></i></a>
-                        <a href="" className="text-[#2D2E32] font-medium text-lg mx-4 transition-colors duration-300 hover:text-[#147EFB]">Live Demo <i className="ri-external-link-line text-xl"></i></a>
+                        <a href="https://lms-ben3.vercel.app/" className="text-[#2D2E32] font-medium text-lg mx-4 transition-colors duration-300 hover:text-[#147EFB]">Live Demo <i className="ri-external-link-line text-xl"></i></a>
                     </div>
                 </div>
             </div>
